@@ -5,7 +5,6 @@ from dash import html
 import dash_admin_components as dac
 
 from utils.constants import MENU_ITEMS 
-#from utils.constants import gdp_page_location, iris_page_location
 
 # Sidebar
 subitems = [

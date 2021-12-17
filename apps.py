@@ -5,7 +5,6 @@ from utils.external_assets import ROOT, EXTERNAL_STYLESHEETS, FONT_AWSOME
 import flask
 # from flask_caching import Cache
 
-
 from ui.main import layout
 # =============================================================================
 # Dash App and Flask Server
