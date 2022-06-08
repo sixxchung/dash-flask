@@ -1,3 +1,5 @@
+"""Plotly Dash HTML layout override."""
+
 html_layout = """
 <!DOCTYPE html>
     <html>
@@ -12,7 +14,7 @@ html_layout = """
               <div class="nav-wrapper">
                 <a href="/">
                     <img src="/static/img/logo.png" class="logo" />
-                    <h1>ddd</h1>
+                    <h1>Plotly Dash Flask Tutorial</h1>
                   </a>
                 <nav>
                 </nav>
